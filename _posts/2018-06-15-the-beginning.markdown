@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "The Beginning"
+date:   2018-06-15 10:18:00
+categories: 
+---
+
+As 2018 \Art fellows, we are thrilled to work with Tajima Studio and use technology in a new way to create artwork and express impactful ideas. In recent years, the advances in various technical areas ranging from hardware to machine learning have changed the way we live today and become an integral part of our existence. They also introduce exciting new possibilities for art and can serve as disruptive mediums and techniques. By looking beyond the commonly used ones from the past, we aim to create something unique and remarkable.
+
+The overall theme of our project is the notion of how technology deeply shapes our daily lives and the obfuscation and noise we could add to make ourselves un-scrapable. From social media to wearable devices, technology captures and models our lives in a discrete yet thorough manner. It predicts and shapes our decisions, feelings, and behaviors. With this in mind, the core question for this project revolves around the aspects of our lives and identities that are not fully captured by technology, or those that machines see differently from humans. How do we visually express those aspects that transcend our interactions with applications and devices?
+
+We are currently in the ideation phase. We are conducting research on what tools and datasets to use, as well as the visual elements to express the multi-faceted idea above. Holographic projectors and LEDs are particularly interesting as they can create captivating visual effects and are more affordable at this time. There are several models in the market, yet we are still unsure of their flexibility with customizations. In terms of datasets, we are looking into biometric and genetic datasets like 23andme as they reflect on us as humans most objectively. Furthermore, dating profile datasets can be a good source because they are highly descriptive and provide ample characteristics of individuals.
+
+This past Tuesday, we met with Mika, Eric, and Howie to discuss the metaphor, the datasets, and algorithms that can be used to serve the visuals. Eric brought up the idea of using the metaphor of "[mantis shrimp]: https://en.wikipedia.org/wiki/Mantis_shrimp" to describe, in machine learning, how machines are able to make connections we cannot see. In terms of datasets, we nailed down to three kinds of dataset: biometric, bio-profile (OkCupid) and DNA (23andMe). Given those datasets likely contain many dimensions than we can directly visualize, we decided to try using PCA (principal component analysis) and neural networks to find discover representations of the data. For the art piece, we are thinking of a light installation in an ambient space, with sound as a reinforcing element.
+
+For inspiration, we visited a few prominent museums in New York City including the Museum of the Moving Image and the Whitney and viewed several art installations in different forms. The key takeaways were the broad artistic movements in art and understanding how viewers interact with space and installations. In specific, Acoustic Vessel "[Odyssey]: https://www.youtube.com/watch?v=X33IjA4X8Z0" from SXSW 2018 and Tal Rosner's live video installation were memorable for their innovative use of visual effects and sound, resulting in remarkable experiences for the viewer. Just as these installations, we want our project to deliver both experiential and technical surprises. 
+
+In the coming weeks, we will continue to make progress in research and initiate prototype development. We plan to learn and move forward quickly by adopting the agile methodology. As the project matures, there will be many experiments, and we hope to share the results with you promptly.  
