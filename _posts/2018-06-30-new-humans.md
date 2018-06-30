@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "New Humans"
-date:   2018-06-30 06:23:00
-categories: 
+date:   2018-06-30 07:16:00
+categories: Frankenstein 23andMe OKCupid
 ---
 ![Dating Profile Visualizations](/assets/images/post-2-1.png)
 What would it mean to create new entities in a virtual space? And how would we interact with them? From our original vision of creating the un-scrapable aspects of human lives, we shifted our focus to a different objective. There were three datasets that we were interested in using to capture a human profile both objectively and subjectively: biometric, genetic and dating profile datasets. Biometric and genetic datasets represent data types that are measurable in a standardized manner, whereas the dating profiles are open for many interpretations. As we looked through the datasets acquired in public domain, we learned that using them together is key in creating a rich and holistic picture of an individual. Nonetheless, the entities in these datasets are not linked, so we had to recalibrate our artistic interpretation to overcome this challenge. 
