@@ -5,11 +5,12 @@ date:   2018-07-12 15:26:00
 categories: Max
 ---
 
----
-<img src="/assets/images/tsne_500.gif" width="30%">
-<img src="/assets/images/svd_anim.gif" width="30%">
-<img src="/assets/images/pca_anim.gif" width="30%">
----
+th:empty {
+  font-size: 0px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
 
 | :-------------: | :-------------: | :-------------: |
 | <img src="/assets/images/tsne_500.gif" width="30%"> | <img src="/assets/images/svd_anim.gif" width="30%"> | <img src="/assets/images/pca_anim.gif" width="30%"> | 
