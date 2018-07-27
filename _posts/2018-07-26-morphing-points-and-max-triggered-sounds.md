@@ -5,7 +5,7 @@ date:   2018-07-12 15:26:00
 categories: Max
 ---
 
-![t-SNE Visualization](/assets/images/tsne_500.gif)
+![t-SNE Visualization]<img src="/assets/images/tsne_500.gif" width="40%">
 ![Truncated SVD Visualization](/assets/images/svd_anim.gif)
 ![PCA Visualization](/assets/images/pca_anim.gif)
 
