@@ -5,9 +5,9 @@ date:   2018-07-12 15:26:00
 categories: Max
 ---
 
-![t-SNE Visualization]<img src="/assets/images/tsne_500.gif" width="40%">
-![Truncated SVD Visualization](/assets/images/svd_anim.gif)
-![PCA Visualization](/assets/images/pca_anim.gif)
+<img src="/assets/images/tsne_500.gif" width="40%">
+<img src="/assets/images/svd_anim.gif" width="40%">
+<img src="/assets/images/pca_anim.gif" width="40%">
 
 This past week, we had a deepened conversation about visualizing "new humans" with the Tajima team. With our meshed dataset handcrafted from various data sources, we finished the initial iterations of PCA, t-SNE, and truncated SVD visualizations.  Regarding the visual direction, we found there are two paradigms going forward. One is to move from one dimensionality-reduction technique to the next (or different steps in t-SNE). The other model is to keep changing the permutations of features included so the points keep moving. There are philosophical arguments to be made on both sides. The first direction shows how machines see things we as humans cannot see about these “Frankenstein" individuals as they exist in high-dimensional space. By employing various dimensionality reduction techniques, the nature of the data in their space emerges in different manners in a way that we can comprehend. As each technique yields a different pattern, we can suppose that not only different aspects of the individuals can show but also the integrity of the data as a whole is kept. On the other hand, the second direction places the emphasis on the multi-faceted nature of human beings -- there are never enough features to fully capture a person. By including different features, we show that there are always new perspectives to see someone. We came to the conclusion that we will be able to make a better decision when we see both so we will be creating examples of technique shift and feature shift visualizations in the coming weeks. 
 
