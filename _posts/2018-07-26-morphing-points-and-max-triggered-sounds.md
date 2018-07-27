@@ -5,13 +5,7 @@ date:   2018-07-12 15:26:00
 categories: Max
 ---
 
-th:empty {
-  font-size: 0px;
-  margin: 0;
-  padding: 0;
-  border: 0;
-}
-| | | 
+| A | B | C |
 | :-------------: | :-------------: | :-------------: |
 | <img src="/assets/images/tsne_500.gif" width="30%"> | <img src="/assets/images/svd_anim.gif" width="30%"> | <img src="/assets/images/pca_anim.gif" width="30%"> | 
 
