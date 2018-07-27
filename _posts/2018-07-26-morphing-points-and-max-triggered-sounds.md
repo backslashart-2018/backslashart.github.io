@@ -5,6 +5,12 @@ date:   2018-07-12 15:26:00
 categories: Max
 ---
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 | ------------- | ------------- |
 | <img src="/assets/images/tsne_500.gif" width="30%"> | <img src="/assets/images/svd_anim.gif" width="30%"> | <img src="/assets/images/pca_anim.gif" width="30%"> | 
 
