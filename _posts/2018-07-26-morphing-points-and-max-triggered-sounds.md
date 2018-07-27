@@ -11,7 +11,7 @@ th:empty {
   padding: 0;
   border: 0;
 }
-
+| | | 
 | :-------------: | :-------------: | :-------------: |
 | <img src="/assets/images/tsne_500.gif" width="30%"> | <img src="/assets/images/svd_anim.gif" width="30%"> | <img src="/assets/images/pca_anim.gif" width="30%"> | 
 
