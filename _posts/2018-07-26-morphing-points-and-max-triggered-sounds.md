@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Morphing Points and Max-triggered Sounds"
-date:   2018-07-12 15:26:00
+date:   2018-07-27 15:26:00
 categories: Max
 ---
 
