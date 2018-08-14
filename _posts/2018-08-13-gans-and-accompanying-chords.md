@@ -17,7 +17,7 @@ At each learning step, the network learns to lower the error rate and produce mo
 
 | Snowflakes  | Fireworks | 
 | :-------------: | :-------------: |
-| <img src="https://lh5.googleusercontent.com/l5Gr70eKhmNhWhzDgsIynsQtI2WK9ypr1BgJpyASojjceVYmjtPyct2vJzMEBF7GBEKvyajcmPQUCAKeJ3Am_g2A8gIcWbdUeY8FYdyh80sOyMkD9Gk4DtBWpJXxDqx9NhIwGdcD" width="30%"> | <img src="https://lh3.googleusercontent.com/w2UVQbcvaeatlYAlsJvFVebUtox968l8JOeRv5t8pPoRhM41npRIAExXVOW4PPtb1gNtbW0T4e-thqYXtZw4m8dyKSSJ2PS9Y9TudGdQEP6jVKGmgCULhQh7ZxrL86KewE2N0UVI" width="60%">
+| <img src="https://lh5.googleusercontent.com/l5Gr70eKhmNhWhzDgsIynsQtI2WK9ypr1BgJpyASojjceVYmjtPyct2vJzMEBF7GBEKvyajcmPQUCAKeJ3Am_g2A8gIcWbdUeY8FYdyh80sOyMkD9Gk4DtBWpJXxDqx9NhIwGdcD" width="30%"> | <img src="https://lh3.googleusercontent.com/w2UVQbcvaeatlYAlsJvFVebUtox968l8JOeRv5t8pPoRhM41npRIAExXVOW4PPtb1gNtbW0T4e-thqYXtZw4m8dyKSSJ2PS9Y9TudGdQEP6jVKGmgCULhQh7ZxrL86KewE2N0UVI" width="10%">
 | <img src="https://lh6.googleusercontent.com/3abA_8p85cUnwyX5pRV8pCHYFwCtRxR2AZzk6GOKGYSFTDt4G9G0-qO_Ye86f48XsN1YS0gU-5vVab2FBsP5AUY26zxdFyMC7xbTOgO52qorTsmfzU-7oaEkUirh4GuVIHRTIbow" width="30%"> | <img src="https://lh5.googleusercontent.com/9Mu0H1Yi2lA6z64jq-N-R8PlTvpiAyIqwYv2mRFDEhNO9KW3drg92iyhFAiSvHLgN-V4flcZmzhcMemVjjjl26IWeBhFsDw1dvuj4lGZAtJn6mAhiJ3vhTDMibqdu8ll8XzZob_1" width="30%">
 
 The challenge with this technique is that using images makes the training computationally expensive as each pixel value is used as a feature. So far, we created images in small dimensions to reduce the training time as much as possible. In the coming weeks, we plan to produce high fidelity images with colors and better resolutions using the same technique.
