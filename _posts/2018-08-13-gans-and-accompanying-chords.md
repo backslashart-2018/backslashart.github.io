@@ -7,7 +7,7 @@ categories: GANs Max
 
 In the past weeks, we utilized different technologies to make progress on both visual and aural presentations. Regarding the visual aspects, the main breakthrough was engaging generative adversarial networks (GANs) to create new unique images based on the visualizations that we created by using dimensionality techniques such as t-SNE.
 
-![t-SNE visualization](https://lh3.googleusercontent.com/NhqA_9c9TwOACeOoX17sjMlkHjKlG5orisPlHMiKgchzs-RfZoTVcatwQ52drLYPEY9kO0sNWI8T2zA5gQNviR8d2BLKcs45nE6XqvotqEkYrhnTX4VGesgovk6On7c2ZxmeRiW7)
+![t-SNE visualization](/assets/images/tsne.gif)
 
 The above visualization is one example of t-SNE visualizations from our training sets. This visualization has a finite number of images, so it loops over at a certain point. However, by using GANs, we can generate new images as shown below.
 
