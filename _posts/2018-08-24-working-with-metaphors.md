@@ -5,6 +5,7 @@ date:   2018-08-24 11:54:00
 categories: Metaphors Droplets Terminator
 ---
 
+<br/>
 <p align="center"> 
  Extended Visualization
 </p>
