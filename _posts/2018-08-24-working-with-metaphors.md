@@ -7,7 +7,7 @@ categories: Metaphors Droplets Terminator
 
 <br/>
 <p align="center"> 
- Extended Visualization
+ Clip of the Extended Visualization
 </p>
 <p align="center"> 
   <img src="/assets/images/longtsne.gif">
