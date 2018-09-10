@@ -10,11 +10,11 @@ Continuing working with metaphors, we attempted to use gaming engines to create 
 Water is surprisingly difficult to recreate graphically. They are translucent, but not all so because you can still see them. They distort the background based on lighting directions. And when they move, if you watch it in slow motion, you can clearly see that the droplets first are pressed against each other, until the shield breaks and they merge into one. Below are a few examples of what we were able to achieve in Unity both statically and dynamically:
 </br>
 <p align="center"> 
- Water Dropped from an Emitter
+ Water Drops from an Emitter
 </p>
 ![Waterdrop 1](/assets/images/waterdrop1.png)
 <p align="center"> 
- Water Dropped from A Emitter
+ A Single Waterdrop
 </p>
 ![Waterdrop 2](/assets/images/waterdrop2.png)
 <p align="center"> 
