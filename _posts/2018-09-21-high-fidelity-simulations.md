@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating High Fidelity Simulations"
+title:  "High Fidelity Simulations"
 date:   2018-09-21 11:54:00
 categories: simulations
 ---
