@@ -5,7 +5,7 @@ date:   2018-09-21 11:54:00
 categories: simulations
 ---
 
-In the past weeks, we have experimented with game engines to generate particle simulations. As novices in game development, we spent a considerable amount of time getting ourselves familiar with the platforms. Online tutorials were the primary resource for self-learning. Besides getting a hang of the engines, the main focus was to produce a high fidelity simulation that mimics the fluidity of water or mercury based on our t-SNE convergence. 
+In the past weeks, we have experimented with game engines to generate particle simulations. As novices in game development, we spent a considerable amount of time getting ourselves familiar with the platforms. Online tutorials were the primary resource for self-learning. Besides getting the hang of the engines, the main focus was to produce a high fidelity simulation that mimics the fluidity of water or mercury based on our t-SNE convergence. 
 
 <br/>
 <p align="center"> 
