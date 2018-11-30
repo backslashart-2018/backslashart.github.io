@@ -31,4 +31,4 @@ The second component of the pipeline calculates the centroids of the t-SNE coord
 
 The last module creates and relays a stream of coordinates for the animation and audio engines to render their outputs. For instance, Unreal Engine, which is used for rendering the animation, grabs the centroids’ positions and overlays visuals on the coordinates. 
 
-[![Metaball Visual So Far](https://www.youtube.com/watch?v=BM3qe0Q5glw)](https://www.youtube.com/watch?v=BM3qe0Q5glw)
+[![Metaball Visual So Far](https://img.youtube.com/vi/BM3qe0Q5glw/0.jpg)](https://www.youtube.com/watch?v=BM3qe0Q5glw)
