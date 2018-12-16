@@ -7,6 +7,12 @@ categories: animation, sculpture
 
 
 
+For the sculpture, we worked on the display's aesthetics. We built on top of what we had already made with GANs. The models generate static outputs, but we want something dynamic and captivating. Here is an example of what we envision:
+
+[![Black Mirror](https://img.youtube.com/vi/1Mhz5bCugFM/0.jpg)](https://www.youtube.com/watch?v=1Mhz5bCugFM)
+
+And the example above shows a cohesive, meaningful shape. Our challenge was to figure out a way to make dynamic movements based on static outputs we have from GANs such as this:
+
 <br/>
 <p align="center"> 
  Initial Output
@@ -16,7 +22,7 @@ categories: animation, sculpture
 </p>
 <br/>
 
-For the sculpture, we worked on the display's aesthetics. We built on top of what we already made with GANs previously. The outputs from the model are static as seen above. And the points are scattered, so the challenge was to figure out a way to make dynamic movements based on them. Per Mika's vision, we wanted to lasso individual points and create outerbounds for display. Here were the steps to execute the idea. First, we applied a gaussian blur on the images iteratively.
+In order to create dynamic shapes, we wanted to group the individual points and use the outerbounds as the final outputs. Mika liked the idea of simply lassoing the points and experiment with the results. Here are our steps to execute the idea. First, we applied a gaussian blur on the images iteratively to create some structure in the image. Based on the structure, we can do more interesting experiments. 
 
 <br/>
 <p align="center"> 
@@ -27,7 +33,7 @@ For the sculpture, we worked on the display's aesthetics. We built on top of wha
 </p>
 <br/>
 
-Given the blurred image, we created a heightmap based using the brightness as the third axis value. Here's how looks. 
+Given the blurred images, we then created a heightmap by using the brightness in each pixel as the third axis value. Here's how looks. 
 
 <br/>
 <p align="center"> 
@@ -47,8 +53,7 @@ Given the blurred image, we created a heightmap based using the brightness as th
 </p>
 <br/>
 
-Then we slice the heightmap on different levels to draw contour plots. The image above shows the plots in different colors. No we can use these to create interesting shapes connecting individual points from the GANs. 
-
+Then we slice the heightmap on different levels to draw contour plots. The image above shows the contours on different levels in different colors. Here's how it looks when we go over each one in iteration. 
 
 <br/>
 <p align="center"> 
