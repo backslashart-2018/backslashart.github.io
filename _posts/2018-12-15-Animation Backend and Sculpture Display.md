@@ -49,7 +49,7 @@ categories: animation, sculpture
  3D Heightmap
 </p>
 <p align="center"> 
-  <img src="/assets/images/3dmap.gif">
+  <img src="/assets/images/3dmap.png">
 </p>
 <br/>
 
