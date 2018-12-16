@@ -11,7 +11,7 @@ For the sculpture, we worked on the display's aesthetics. We built on top of wha
 
 [![Black Mirror](https://img.youtube.com/vi/1Mhz5bCugFM/0.jpg)](https://www.youtube.com/watch?v=1Mhz5bCugFM)
 
-And the example above shows a cohesive and meaningful shape. Our challenge was to figure out a way to make dynamic movements based on static outputs we have from GANs such as this:
+And the example above shows a cohesive and meaningful shape, so our challenge was to figure out a way to make dynamic movements based on static outputs we have from GANs such as this:
 
 <br/>
 <p align="center"> 
