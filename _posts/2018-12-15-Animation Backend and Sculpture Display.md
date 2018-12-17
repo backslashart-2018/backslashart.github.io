@@ -27,7 +27,7 @@ And the example above shows a cohesive and meaningful shape, so our challenge wa
 </p>
 <br/>
 
-In order to create dynamic shapes, we wanted to group the individual points and use the outerbounds as the final outputs. Mika liked the idea of simply lassoing the points and experiment with the results. Here are our steps to execute the idea. First, we applied a gaussian blur on the images iteratively to create some structure in the image. Based on the structure, we can do more interesting experiments. 
+In order to create dynamic shapes, we wanted to group the individual points and use the outerbounds as the final outputs. Mika liked the idea of simply lassoing the points and experimenting with the results. Here are our steps to execute the idea. First, we applied a gaussian blur on the images iteratively to create some structure in the image. Based on the structure, we can do more interesting experiments. 
 
 <br/>
 <p align="center"> 
