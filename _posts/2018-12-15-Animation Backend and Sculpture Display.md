@@ -38,7 +38,7 @@ In order to create dynamic shapes, we wanted to group the individual points and 
 </p>
 <br/>
 
-Given the blurred images, we then created a heightmap by using the brightness in each pixel as the third axis value. Here's how looks. 
+Given the blurred images, we then created heightmaps by using the brightness in each pixel as the third axis value. Here's how looks. 
 
 <br/>
 <p align="center"> 
