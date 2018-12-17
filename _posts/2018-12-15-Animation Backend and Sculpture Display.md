@@ -12,7 +12,7 @@ In pipeline #1, we wrote a little program to start a local server and we can con
 
 ![Screenshot of data pipeline client](/assets/images/TSNE_client.jpeg)
 
-For pipeline #2, we worked on the display's aesthetics. We built on top of what we had already made with GANs. The models generate static outputs, but we want something dynamic and captivating. Here is an example of what we envision (prototype by Brooklyn Research):
+For pipeline #2, we worked on the display's aesthetics. We built on top of what we had already made with GANs. The models generate static outputs, but we want something dynamic and captivating. Here is an example of what we envision:
 
 [![Black Mirror](https://img.youtube.com/vi/1Mhz5bCugFM/0.jpg)](https://www.youtube.com/watch?v=1Mhz5bCugFM)
 
