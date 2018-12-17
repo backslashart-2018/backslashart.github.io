@@ -4,10 +4,15 @@ title:  "Animation Backend and Sculpture Display"
 date:   2018-12-15 09:31:00
 categories: animation, sculpture
 ---
+For the past two weeks, we focused on building the architecture for driving the animation and sound as well as preparing a separate data pipeline driven by GANS to feed into the ferrofluid device. A picture is worth a thousand words - the diagram below summarizes our vision so far.
 
+![Technical Diagram](/assets/images/architecture.jpeg)
 
+In pipeline #1, we wrote a little program to start a local server and we can control the rest of the pipeline using the client application. Below is a screenshot of what the client looks like. Though not much thought was put into making it the prettiest client, it can start and stop the TSNE and clustering processes, write/reset the database and visually see examples of the data generated from the algorithms. 
 
-For the sculpture, we worked on the display's aesthetics. We built on top of what we had already made with GANs. The models generate static outputs, but we want something dynamic and captivating. Here is an example of what we envision:
+![Screenshot of data pipeline client](/assets/images/TSNE_client.jpeg)
+
+For pipeline #2, we worked on the display's aesthetics. We built on top of what we had already made with GANs. The models generate static outputs, but we want something dynamic and captivating. Here is an example of what we envision (prototype by Brooklyn Research):
 
 [![Black Mirror](https://img.youtube.com/vi/1Mhz5bCugFM/0.jpg)](https://www.youtube.com/watch?v=1Mhz5bCugFM)
 
