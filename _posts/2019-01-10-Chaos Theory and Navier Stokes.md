@@ -9,6 +9,6 @@ In the past weeks, we focused on the sculpture software. Our previous prototype 
 
 The Navier-Stokes equations are used to simulate motions of fluid substances. Our first approach to introducing entropy in our system was to implement these equations. Thanksfully, much research has been done in this area because of the advances in game technology since they are very useful that generate fluids in games. Our first iteration looks as such (please watch it in 2x speed):
 
-[![Metaball Visual So Far](https://img.youtube.com/vi/US8DI976hfE/0.jpg)](https://www.youtube.com/watchv=US8DI976hfE&feature=youtu.be)
+[![Metaball Visual So Far](https://img.youtube.com/vi/US8DI976hfE/0.jpg)](https://youtu.be/US8DI976hfE)
 
 It's a very crude prototype, yet the example captures randomness better and bears resemblance to the way the liquid or air interacts. Nonetheless, we need to optimize on the system's speed and capture acceleration better. More intriguing updates coming soon!
