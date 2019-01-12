@@ -7,7 +7,14 @@ categories: Sculpture
 
 In the past weeks, we focused on the sculpture software. Our previous prototype was visually appealing, yet lacked one of the crucial ideas that we are trying to capture: entropy. We want to create something that looks organic and natural from discrete systems. This effort prompted us to look back at one of our original ideas and further explore Chaos Theory. Its core idea is that from a small change in initial conditions, the outcomes turn out to be vastly different. And the fluid is a great example of chaotic systems. By pouring a colored solution in water, the manner in which the liquids interact is quite random since it's chaotic.
 
-![Fluid Physics](/assets/images/formula.png)
+<br/>
+<p align="center"> 
+ The Navier-Stokes Equations for Fluid Motions
+</p>
+<p align="center"> 
+  <img src="/assets/images/formula.png">
+</p>
+<br/>
 
 The Navier-Stokes equations are used to simulate motions of fluid substances. Our first approach to introducing entropy in our system was to implement these equations. Thanksfully, much research has been done in this area because of the advances in game technology since they are very useful that generate fluids in games. Our first iteration looks as such (please watch it in 2x speed):
 
