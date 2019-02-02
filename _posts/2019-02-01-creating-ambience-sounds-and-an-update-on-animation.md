@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating Ambient sounds and an Update on Animation"
-date:   2018-02-01 12:13:00
+date:   2019-02-01 22:13:00
 categories: Max Ableton
 ---
 
