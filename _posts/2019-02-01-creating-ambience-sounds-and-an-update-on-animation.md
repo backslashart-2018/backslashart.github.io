@@ -10,7 +10,9 @@ In the past weeks, we narrowed down on both the artistic concept and technical c
 
 We used Max to connect to the data server and prototyped a simple data mapping of the coordinates of the first point fetched from the server to attributes of the pad sound in a scaled fashion, in order to create slight variations in the output sound. We want the background to be changing but in very subtle ways, as its main purpose is to serve as an ambience for the animation and a backdrop for synthetic voice. Listen to the Max + Ableton generated sound here:
 
-<audio controls src=“https://arena-attachments.s3.amazonaws.com/3542076/08ed6723634294d76842fda5fa869c24.wav”>
+<audio controls>
+	<src=“https://arena-attachments.s3.amazonaws.com/3542076/08ed6723634294d76842fda5fa869c24.wav” type="audio/wav">
+	"Your browswer does not support the audio."
 </audio>
 
 Here is a snapshot of part of the Max program:
