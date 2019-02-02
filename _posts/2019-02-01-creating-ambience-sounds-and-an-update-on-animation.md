@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating Ambience sounds and an Update on Animation"
 date:   2018-02-01 22:13:00
-categories: 
+categories: Max Ableton
 ---
 
 In the past weeks, we narrowed down on both the artistic concept and technical controls of the aural component. Howie provided us with the picture below for illustration. The idea is to use a synthetic voice, vocaloid synth, to “speak out” the attributes of the synthetic humans while those words and phrases may be blurred, stretched and pitch-shifted. It is recognizable in the beginning and end, going in and out. At the same time, the ambience is an ever-changing background pad sound that is liquidy and ethereal.
