@@ -4,4 +4,4 @@ Furthermore, we are making final adjustments on the visual side. In the previous
 
 The sculpture is still in development in partnership with Brooklyn Research. The following is the latest experiment they shared with us:
 
-[!Sculpture](https://vimeo.com/321819302)
+[Sculpture](https://vimeo.com/321819302)
