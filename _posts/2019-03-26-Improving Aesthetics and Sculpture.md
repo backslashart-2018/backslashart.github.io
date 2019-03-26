@@ -15,7 +15,7 @@ Here's how the animation looks in the animation:
 [![Orbiting and Light Change](https://img.youtube.com/vi/prlg92TlBQI/0.jpg)](https://youtu.be/prlg92TlBQI)
 
 Lastly, the sculpture prototype from Brooklyn Research Group is now connected to the Processing script that runs the Navier Stokes algorithm. The following videos show how they look. 
-[Processing Hooked Up](https://drive.google.com/file/d/1MFYCcbpGnGQwXbI77QlglwJ2L-gtl0JT/view)
+[Processing Connection](https://drive.google.com/file/d/1MFYCcbpGnGQwXbI77QlglwJ2L-gtl0JT/view)
 [Experiment Video](https://vimeo.com/324490894)
 
 In terms of the timeline, we plan to conclude our project in mid-April. 
